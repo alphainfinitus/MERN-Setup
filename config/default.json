@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://<username>:<password>@cluster0-fzupm.gcp.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "anything_here"
+}
